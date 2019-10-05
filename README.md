@@ -5,8 +5,6 @@ mgLunch! is a MSX ROM launcher for the  "KDL firmware's OneChip MSX"
 
 ![mgLunch4ocm](mgLunch.jpg)
 
-![mglCook](mglCook.jpg)
-
 
 v1.2f :
 
@@ -47,6 +45,7 @@ v1.2f :
 
 ### 'mgLunch' , "mglOcm", "mglCook" are written by ToughkidCST
 
+![mglCook](mglCook.jpg)
 
 ### CONTACT
 toughkiddev@gmail.com
