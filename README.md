@@ -14,6 +14,10 @@ v1.2f :
     mglOcm.com  - romloader for OCM
     mglCook.exe - rom file scanner for Windows xp/vista/7/8/8.1/10 
 
+## MSX mgLunch! Setup Guide.   https://youtu.be/qOpE3horClY
+[![MSX mgLunch! Setup Guide.](https://yt-embed.herokuapp.com/embed?v=qOpE3horClY)](https://www.youtube.com/watch?v=qOpE3horClY "MSX mgLunch! Setup Guide.")
+
+
 ### Operation Keys
 
     [F1] Search : Search Rom File 
